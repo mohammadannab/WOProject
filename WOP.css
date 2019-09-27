@@ -1,0 +1,75 @@
+#uol{
+	color: white;
+	font-size: 20px;
+	font-family: arial;
+	font-weight: bold;
+}
+
+body{
+background-image: url("https://wallpaperstream.com/wallpapers/thumbnails/brand-logo/Ferrari-Logo-With-Dark-Background_thumb2x.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+}
+
+.header{
+	text-align: center;
+	font-size: 90px;
+	color: gold;
+	font-family: Arial Black;
+	border-style: solid;
+	border-color: red;
+	background-image: url("https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fmarkewing%2Ffiles%2F2019%2F07%2FSF90_Stradale_11-1200x843.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#para{
+	color: white;
+	padding-left: 20px;
+	font-size: 28px;
+	font-family: arial;
+	margin-top: 100px;
+	font-weight: bold;
+}
+
+.spaces{
+	margin-bottom: 20px;
+	color: yellow;
+	font-size: 30px;
+}
+
+#title{
+	color: gold;
+	font-weight: bold;
+	font-size: 50px;
+	padding-left: 22px;
+	font-family: arial;
+	border-style: solid;
+	border-color: red;
+	background-image: url("https://media.istockphoto.com/photos/engine-gears-wheels-and-cogwheels-industrial-background-picture-id859247338?k=6&m=859247338&s=612x612&w=0&h=eGfGC7Qu2rZPJ_uUQn6qp4CacbMzNZgt1AK9fsTr0ow=");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.anchor{
+	font-size: 20px;
+	color: red;
+	font-family: arial;	
+}
+
+.navbar {
+  background-color: firebrick;
+  height: 30px;
+  overflow: hidden;
+}
+
+.home{
+	font-size: 25px;
+	color: gold;
+	font-family: arial;
+	padding-left: 10px;
+}
+

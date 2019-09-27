@@ -1,0 +1,62 @@
+.gallery{
+	width: 760px;
+}
+
+body{
+	background-color: firebrick;
+}
+
+.gallery2{
+	width: 743px;
+	height: 573px;
+}
+
+.gallery3{
+	width: 743px;
+	height: 370px;
+}
+
+.gallery4{
+	width: 1505px;
+	height: 1000px;
+}
+
+.navbar {
+  background-color: firebrick;
+  height: 30px;
+  overflow: hidden;
+}
+
+.home{
+	font-size: 25px;
+	color: gold;
+	font-family: arial;
+	padding-left: 10px;
+}
+
+#button1 {
+    width:100px;
+    height:50px;
+    float:left;
+    margin-left:5px;
+    color: yellow;
+    background-color: red;
+    border-radius: 10%;
+    cursor: pointer;
+    font-family: arial;
+    font-size: 17px;
+}
+
+
+#button2 {
+    width:100px;
+    height:50px;
+    float:left;
+    margin-left:5px;
+    color: yellow;
+    background-color: red;
+    border-radius: 10%;
+    cursor: pointer;
+    font-family: arial;
+    font-size: 17px;
+}
